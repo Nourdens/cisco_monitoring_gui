@@ -8,9 +8,9 @@ A remote monitoring system with GUI utitilising the Simple Network Management Pr
 - [PySNMP](https://pysnmp.readthedocs.io/en/latest/)
 
 ## How to use 
-1. Have libraries listed above installed.
-<code>$ pip install PyQt5</code>
-<code>$ pip install matplotlib</code>
+1. Have libraries listed above installed.    
+<code>$ pip install PyQt5</code>    
+<code>$ pip install matplotlib</code>    
 <code>$ pip install pysnmp</code>
 2.  Start application using Bash or PowerShell locally: 
 <code>$ python ./script.py</code>
